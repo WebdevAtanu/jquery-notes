@@ -1,0 +1,21 @@
+#contain{
+border:1px solid black;
+/* background:#ffbfbf; */
+padding:5px;
+margin-top:5px;
+font-size:20px;
+}
+.mycls{
+background-image:linear-gradient(lightgreen,skyblue);
+}
+.box{
+	border:1px solid;
+}
+#wrapdiv{
+background:orange;
+}
+#scrollbtn{
+	position:fixed;
+	right:10px;
+	bottom:10px;
+}
